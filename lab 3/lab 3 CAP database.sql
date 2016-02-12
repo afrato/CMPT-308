@@ -1,4 +1,4 @@
-﻿-- List the ordno and dollars of all orders.
+-- List the ordno and dollars of all orders.
 SELECT ordno, dollars
 FROM orders;
 -- List the name and city of agents named Smith.
@@ -32,7 +32,7 @@ SELECT *
 FROM orders
 WHERE mon ='feb'
 AND dollars < 500;
---List all orders from the customer whose cid is C005
+-- List all orders from the customer whose cid is C005
 SELECT ordno
 FROM orders
 WHERE cid = 'C005';
