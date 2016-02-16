@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 -- 1. List the ordno and dollars of all orders.
-=======
--- List the ordno and dollars of all orders.
->>>>>>> 4b84c3cdc987117a1e227c85d0a71a5732709dfe
 SELECT ordno, dollars
 FROM orders;
 -- 2. List the name and city of agents named Smith.
@@ -36,11 +32,7 @@ SELECT *
 FROM orders
 WHERE mon ='feb'
 AND dollars < 500;
-<<<<<<< HEAD
 -- 9. List all orders from the customer whose cid is C005
-=======
--- List all orders from the customer whose cid is C005
->>>>>>> 4b84c3cdc987117a1e227c85d0a71a5732709dfe
 SELECT ordno
 FROM orders
 WHERE cid = 'C005';
