@@ -1,0 +1,28 @@
+9 pts
+
+1. 
+
+Evidence looks ok.
+
+You could have joined the screenshots for better organization.
+
+
+2.
+
+The distinction between a superkey and candidate key is deficient. Remember
+that a candidate key is the minimum set of superkeys. Also, the superkey can be
+one single column.
+
+
+3.
+
+Good example of datatypes and nulls.
+
+
+4.
+
+Very good explanations about the rules. 
+
+
+
+- Dr. Rivas
