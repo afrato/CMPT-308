@@ -1,0 +1,17 @@
+10 pts
+
+Correct output for all queries
+Correct queries
+Correct SQL statements
+SQL statements are readable
+
+
+
+In general: 
+
+- Very good!
+
+- Make sure your name is somewhere in the .sql file.
+
+
+- Dr. Rivas
